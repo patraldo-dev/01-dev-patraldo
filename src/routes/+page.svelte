@@ -24,4 +24,5 @@
   <button id="voldec" type="button" data-state="voldown">Vol-</button>
   <button id="fs" type="button" data-state="go-fullscreen">Fullscreen</button>
 </div>
+</style>
 
