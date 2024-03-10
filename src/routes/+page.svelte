@@ -10,7 +10,6 @@
 <video-controls src="https://sveltejs.github.io/assets/caminandes-llamigos.mp4" alt='{name} dances up a storm' muted="false" loop controls />
 <video src="https://storage.googleapis.com/patraldo/patraldo-dev/bg-paris300x400-x-out.mp4" alt='{name} dances up a storm' muted autoplay loop controls width="620" />
 
-<style>
 <div id="video-controls" class="controls" data-state="hidden">
   <button id="playpause" type="button" data-state="play">Play/Pause</button>
   <button id="stop" type="button" data-state="stop">Stop</button>
@@ -24,5 +23,4 @@
   <button id="voldec" type="button" data-state="voldown">Vol-</button>
   <button id="fs" type="button" data-state="go-fullscreen">Fullscreen</button>
 </div>
-</style>
 
