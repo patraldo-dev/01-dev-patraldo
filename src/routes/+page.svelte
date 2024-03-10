@@ -8,4 +8,5 @@
 
 
 <video src="https://sveltejs.github.io/assets/caminandes-llamigos.mp4" alt='{name} dances up a storm' muted autoplay loop />
+<video src="https://storage.googleapis.com/patraldo/patraldo-dev/bg-paris300x400-x-out.mp4" alt='{name} dances up a storm' autoplay loop />
 
