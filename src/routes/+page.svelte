@@ -1,8 +1,11 @@
 <script>
-	let name = 'Christophe';
-import img from '$lib/image.gif';
+     let name = 'Christophe';
+     import myVideo from '$lib/videoParis.mp4';
 </script>
+
+
 <h1>Welcome, {name.toUpperCase()}, to Patraldo Dot Dev</h1>
 <p>A staging ground for web app development</p>
 
-<img src={img} alt='{name} moves slowly, like a zombie.' />
+<video src="{myVideo}" alt='{name} dances up a storm' autoplay loop />
+
