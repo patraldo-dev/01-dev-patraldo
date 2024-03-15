@@ -10,6 +10,7 @@
 
 <div class="warning">
 <video src="https://storage.googleapis.com/patraldo/patraldo-dev/bg-paris300x400-x-out.mp4" alt='{name} dances up a storm' muted autoplay loop controls width="620" />
+<p>Artiste: Antoine Patraldo <a href="https://antoine.patraldo.com"</a></p> <p>Animación: ¡Pinche Poutine! Digital <a href="https://pinchepoutine.digital"</a></p>
 </div>
 
 <style>
