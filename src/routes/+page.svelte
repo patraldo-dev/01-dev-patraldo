@@ -22,12 +22,9 @@
   flex-direction: column;
 }
 
-.warning video {
-  width: 100%;
-}
 
 .warning p {
-  font: small-caps bold 10.2rem sans-serif;
+  font: small-caps bold 5.2rem sans-serif;
   text-align: center;
 }
 
