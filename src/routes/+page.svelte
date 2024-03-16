@@ -9,7 +9,7 @@
 
 
 <div class="warning">
-<video src="https://storage.googleapis.com/patraldo/patraldo-dev/bg-paris300x400-x-out.mp4" alt='{name} dances up a storm' muted autoplay loop controls width="620" />
+<video src="https://storage.googleapis.com/patraldo/patraldo-dev/bg-paris300x400-x-out.mp4#t=0.1" alt='{name} dances up a storm' muted autoplay loop controls preload="metadata" width="620" />
 <p> <a href="https://antoine.patraldo.com">Artiste: Antoine Patraldo</a></p> <p><a href="https://pinchepoutine.digital">Animación: ¡Pinche Poutine! Digital </a></p>
 </div>
 
